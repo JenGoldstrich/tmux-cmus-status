@@ -20,13 +20,18 @@ None of these will print anything if cmus is not started
 
 Add any of the above items to your `status-right` or `status-left` with the following syntax
 
-I.E. `set -g status-right "#{cmus_status} #{cmus_title} #{cmus_by} #{cmus_artist}"` Will result in printing "playing Song by Artist" when cmus is running being on the right hand status bar. (image to follow)
+I.E. `set -g status-right "#{cmus_status} #{cmus_title} #{cmus_by} #{cmus_artist}"` Will result in printing "playing Song by Artist" when cmus is running being on the right hand status bar. (see below)
+
+![plain_cmus_status](https://i.imgur.com/tNHu6E4.png)
 
 You can also add color options to each field, example
 
 `set -g status-right "#[fg=colour44]#{cmus_status} #{cmus_title} #[fg=white]#{cmus_by} #[fg=colour99]#{cmus_artist}"`
 
-Results in (image to follow)
+Results in (below)
+
+![pretty cmus status](https://i.imgur.com/1dkrCB5.png)
+
 
 #### Requirements 
 
