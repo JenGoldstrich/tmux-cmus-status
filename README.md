@@ -32,6 +32,8 @@ Results in (below)
 
 ![pretty cmus status](https://i.imgur.com/1dkrCB5.png)
 
+Song in screenshot is Ripe by Screaming Females off the album Rose Mountain, really good album avaliable on [their bandcamp](https://screamingfemales.bandcamp.com/album/rose-mountain-2)
+
 
 #### Requirements 
 
