@@ -49,3 +49,9 @@ Hit `prefix + I` to fetch the plugin and source it. You should now be able to
 use the plugin.
 
 Idea and most code taken from: https://github.com/Mpdreamz/tmux-cmus
+
+### Future features
+
+Media controls
+
+Maybe a pop-up to display the next few queued songs
