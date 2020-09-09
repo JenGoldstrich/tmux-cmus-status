@@ -7,8 +7,11 @@ Works on OS X and probably Linux, no idea if Windows shell comes with grep.
 ### Status Options
 
 `cmus_status` prints playing or paused
+
 `cmus_title` prints currently playing track
+
 `cmus_artist` prints currently playing artist
+
 `cmus_by` prints the word "by" if and only if cmus is playing or paused on a track
 
 None of these will print anything if cmus is not started
