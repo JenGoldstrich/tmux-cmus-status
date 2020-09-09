@@ -16,6 +16,18 @@ Works on OS X and probably Linux, no idea if Windows shell comes with grep.
 
 None of these will print anything if cmus is not started
 
+### Usage
+
+Add any of the above items to your `status-right` or `status-left` with the following syntax
+
+I.E. `set -g status-right "#{cmus_status} #{cmus_title} #{cmus_by} #{cmus_artist}"` Will result in printing "playing Song by Artist" when cmus is running being on the right hand status bar. (image to follow)
+
+You can also add color options to each field, example
+
+`set -g status-right "#[fg=colour44]#{cmus_status} #{cmus_title} #[fg=white]#{cmus_by} #[fg=colour99]#{cmus_artist}"`
+
+Results in (image to follow)
+
 #### Requirements 
 
 cmus, cmus-remote 
