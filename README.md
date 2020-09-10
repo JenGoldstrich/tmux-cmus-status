@@ -1,4 +1,4 @@
-# tmux-cmus-enhanced by JenGoldstrich
+# tmux-cmus-status by JenGoldstrich
 
 Cmus status bar tmux plugin which allows you granular control with simplicity
 
