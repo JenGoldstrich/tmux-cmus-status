@@ -2,7 +2,17 @@
 
 Cmus status bar tmux plugin which allows you granular control with simplicity
 
-Works on OS X and probably Linux, no idea if Windows shell comes with grep.
+Tested on OS X Catalina and Linux
+
+### Media Keys
+
+While in tmux.
+
+`f7` previous track
+
+`f8` pause/play track
+
+`f9` next track
 
 ### Status Options
 
