@@ -62,6 +62,4 @@ Idea and most code taken from: https://github.com/Mpdreamz/tmux-cmus
 
 ### Future features
 
-Media controls
-
 Maybe a pop-up to display the next few queued songs
