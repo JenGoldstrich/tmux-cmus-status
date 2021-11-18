@@ -1,8 +1,6 @@
 # tmux-cmus-status by JenGoldstrich
 
-Cmus status bar tmux plugin which allows you granular control with simplicity
-
-Tested on OS X Catalina and Linux
+Cmus status bar tmux plugin which allows you granular control with simplicity, tested on mac and linux
 
 ### Media Keys
 
